@@ -7,7 +7,7 @@ This repository contains a Python script `pipeline.py` automatically converted f
 Clone the repository and move into the project directory:
 
 ```bash
-git clone https://github.com/your-username/Macabi_Home_Assignment.git
+git clone https://github.com/noambassat/Macabi_Home_Assignment.git
 cd Macabi_Home_Assignment
 ```
 
