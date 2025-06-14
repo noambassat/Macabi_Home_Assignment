@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+shap
+sentence-transformers
+torch
+tqdm
+ydata-profiling
+sweetviz
+wordcloud
+python-bidi
+arabic-reshaper
